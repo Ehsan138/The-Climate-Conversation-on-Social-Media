@@ -1,0 +1,12 @@
+# The Climate Conversation On Social Media: Python library dependencies. 
+
+# Testing and code checking
+python-ta
+pytest
+
+# Graphics and data visualization
+Matplotlib (includes numpy and PIL, which we also use)
+WordCloud
+
+#Analysis Tools
+vaderSentiment
